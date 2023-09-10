@@ -1,0 +1,14 @@
+C:\Users\AP\Documents\C#\MatchManagementSystem\bin\Debug\net8.0\MatchManagementSystem.exe
+C:\Users\AP\Documents\C#\MatchManagementSystem\bin\Debug\net8.0\MatchManagementSystem.deps.json
+C:\Users\AP\Documents\C#\MatchManagementSystem\bin\Debug\net8.0\MatchManagementSystem.runtimeconfig.json
+C:\Users\AP\Documents\C#\MatchManagementSystem\bin\Debug\net8.0\MatchManagementSystem.dll
+C:\Users\AP\Documents\C#\MatchManagementSystem\bin\Debug\net8.0\MatchManagementSystem.pdb
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.AssemblyInfoInputs.cache
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.AssemblyInfo.cs
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.dll
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\refint\MatchManagementSystem.dll
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.pdb
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\MatchManagementSystem.genruntimeconfig.cache
+C:\Users\AP\Documents\C#\MatchManagementSystem\obj\Debug\net8.0\ref\MatchManagementSystem.dll
